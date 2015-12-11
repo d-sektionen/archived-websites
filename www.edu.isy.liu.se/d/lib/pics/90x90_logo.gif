@@ -1,0 +1,564 @@
+
+
+<html>
+
+<head>
+
+<title>Datateknologsektionen: </title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<meta name="keywords" content="">
+
+<meta name="description" content="">
+<style type="text/css"><!--
+body {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	background-color: #669966;
+}
+
+form {font-size:10px}
+input {font-size:10px;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;}
+
+ul {list-style-type : square;
+	margin-left : 0px;
+	padding-left : 3px;}
+	
+li {margin-left : 13px;}
+
+dt {font-weight : bold;}
+	font-size: 11px;
+	color: #000000;}
+
+a {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;}
+
+td {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;}
+
+.small {font-size: 10px;}
+.large {font-size: 12px;}
+
+.rubrik {  font-size: 18px;
+	font-weight:bold;}
+
+.subrubrik {  font-size: 12px;
+	font-weight:bold;}
+
+.fottext {   font-size: 9px;
+	text-decoration: none;
+	color: #000000;}
+
+.menu {font-size: 10px;
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+	white-space: nowrap;}
+
+.menu:link { color: #000000 }  /* for unvisited links */
+.menu:visited { color: #000000 } /* for visited links */
+.menu:active { color: #999999 } /* when link is clicked */
+.menu:hover { color: #cccccc } /* when mouse is over link */
+
+:link { color: #000000 }  /* for unvisited links */
+:visited { color: #333333 } /* for visited links */
+:active { color: #660000 } /* when link is clicked */
+:hover { color: #660000 } /* when mouse is over link */
+
+.plain, a.plain {text-decoration: none}
+.plain:link { color: #000000 }  /* for unvisited links */
+.plain:visited { color: #000000 } /* for visited links */
+.plain:active { color: #000000 } /* when link is clicked */
+.plain:hover { color: #666666 } /* when mouse is over link */
+
+h1 {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;}
+
+h2 {font-size:12px;
+	font-weight:bold;}
+
+.datum {font-size:10px;font-style:italic;}
+
+.exempel {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	font-style: italic;
+	color: #000000;}
+
+.error {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #990000;}
+
+--></style>
+</head>
+
+<body marginwidth="0" marginheight="0" topmargin="0" bgcolor="#669966" vlink="#551a8b" alink="#ff0000" link="#FFFFFF" text="#000000" leftmargin="0">
+
+<table cellspacing="0" width="100%" cellpadding="0" border="0">
+
+<tr>
+
+<td><!-- Toptabell -->
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+
+<tr bgcolor="#669966">
+
+<td width="100"> </td>
+
+<td valign="bottom" width="441"><!-- Meny --><!-- Meny -->
+
+
+
+
+
+
+
+
+
+
+
+<table cellspacing="0" cellpadding="0" width="441" border="0">
+
+
+<!-- Översta raden -->
+
+<tr>
+
+<td>
+
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+
+
+
+
+<tr>
+
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+<td width="100%"><img height="1" width="100%" src="/meny/p-1x1-000000.gif"></td>
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+<td width="100%"><img height="1" width="100%" src="/meny/p-1x1-000000.gif"></td>
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+<td width="100%"><img height="1" width="100%" src="/meny/p-1x1-000000.gif"></td>
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+<td width="100%"><img height="1" width="100%" src="/meny/p-1x1-000000.gif"></td>
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+<td width="100%"><img height="1" width="100%" src="/meny/p-1x1-000000.gif"></td>
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+<td width="100%"><img height="1" width="100%" src="/meny/p-1x1-000000.gif"></td>
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+<td width="100%"><img height="1" width="100%" src="/meny/p-1x1-000000.gif"></td>
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+
+<td width="1"><img height="1" width="1" src="/meny/punkt.gif"></td>
+
+
+</tr>
+
+
+<!-- Menytexten i nivå ett -->
+
+<tr>
+
+
+
+
+
+<td width="1" bgcolor="#000000"><img height="100%" width="1" src="/meny/p-1x1-000000.gif"></td>
+
+
+
+
+
+
+
+
+<td bgcolor="#666666" colspan="3"><img height="1" width="5" src="/meny/punkt.gif"><a href="?menyl1=1"><img height="15" width="55" alt="Sektionen" src="/_internal/graphic_text!0/1yquzm3quw3nz$7g12wms5.gif" border="0" /></a><img height="1" width="5" src="/meny/punkt.gif"></td>
+
+
+
+<td width="1" bgcolor="#000000"><img height="100%" width="1" src="/meny/p-1x1-000000.gif"></td>
+
+
+
+
+
+
+
+
+<td bgcolor="#666666" colspan="3"><img height="1" width="5" src="/meny/punkt.gif"><a href="?menyl1=2"><img height="15" width="39" alt="Utskott" src="/_internal/graphic_text!0/1yquzm3quw3nz$7g12wms4.gif" border="0" /></a><img height="1" width="5" src="/meny/punkt.gif"></td>
+
+
+
+<td width="1" bgcolor="#000000"><img height="100%" width="1" src="/meny/p-1x1-000000.gif"></td>
+
+
+
+
+
+
+
+
+<td bgcolor="#666666" colspan="3"><img height="1" width="5" src="/meny/punkt.gif"><a href="?menyl1=3"><img height="15" width="44" alt="Tjänster" src="/_internal/graphic_text!0/1yquzm3quw3nz$7g12wms3.gif" border="0" /></a><img height="1" width="5" src="/meny/punkt.gif"></td>
+
+
+
+<td width="1" bgcolor="#000000"><img height="100%" width="1" src="/meny/p-1x1-000000.gif"></td>
+
+
+
+
+
+
+
+
+<td bgcolor="#666666" colspan="3"><img height="1" width="5" src="/meny/punkt.gif"><a href="?menyl1=4"><img height="15" width="54" alt="Studenter" src="/_internal/graphic_text!0/1yquzm3quw3nz$7g12wms2.gif" border="0" /></a><img height="1" width="5" src="/meny/punkt.gif"></td>
+
+
+
+<td width="1" bgcolor="#000000"><img height="100%" width="1" src="/meny/p-1x1-000000.gif"></td>
+
+
+
+
+
+
+
+
+<td bgcolor="#666666" colspan="3"><img height="1" width="5" src="/meny/punkt.gif"><a href="/gymnasieinfo/lankar.xml?menyl1=0"><img height="15" width="75" alt="Gymnasieinfo" src="/_internal/graphic_text!0/1yquzm3quw3nz$7g12wms0.gif" border="0" /></a><img height="1" width="5" src="/meny/punkt.gif"></td>
+
+
+
+<td width="1" bgcolor="#000000"><img height="100%" width="1" src="/meny/p-1x1-000000.gif"></td>
+
+
+
+
+
+
+
+
+<td bgcolor="#666666" colspan="3"><img height="1" width="5" src="/meny/punkt.gif"><a href="/foretag/?menyl1=0"><img height="15" width="42" alt="Företag" src="/_internal/graphic_text!0/1yquzm3quw3nz$7g12wmsf.gif" border="0" /></a><img height="1" width="5" src="/meny/punkt.gif"></td>
+
+
+
+<td width="1" bgcolor="#000000"><img height="100%" width="1" src="/meny/p-1x1-000000.gif"></td>
+
+
+
+
+
+
+
+
+<td bgcolor="#666666" colspan="3"><img height="1" width="5" src="/meny/punkt.gif"><a href="/meny/sitemap.xml?menyl1=0"><img height="15" width="46" alt="Sitemap" src="/_internal/graphic_text!0/1yquzm3quw3nz$1gxzqcc9jz.gif" border="0" /></a><img height="1" width="5" src="/meny/punkt.gif"></td>
+
+
+
+<td width="1" bgcolor="#000000"><img height="100%" width="1" src="/meny/p-1x1-000000.gif"></td>
+
+
+</tr>
+
+
+
+</table>
+
+</td>
+
+</tr>
+
+
+
+<!-- Andra raden -->
+
+
+
+
+</table>
+
+</td>
+
+<td valign="bottom" align="left" width="184"><a style="text-decoration:none;" href="/"><img height="82" width="184" src="/_internal/cimg!0/eihkjr2khbjo13.gif" border="0" /></a></td>
+
+<td> </td>
+
+</tr>
+
+<tr bgcolor="#000000">
+
+<td width="100"><img height="1" width="100" src="/img/line1x20.gif"></td>
+
+<td width="441"><img height="1" width="441" src="/img/line1x20.gif"></td>
+
+<td align="left" width="184"><a style="text-decoration:none;" href="/"><img height="1" width="184" src="/_internal/cimg!0/eihkjr2khbjo12.gif" border="0" /></a></td>
+
+<td><img height="1" width="20" src="/img/line1x20.gif"></td>
+
+</tr>
+
+<tr bgcolor="#ffffff">
+
+<td width="100" bgcolor="#ffffff"> </td>
+
+<td align="center" width="441"> </td>
+
+<td valign="top" align="left" width="184"><a style="text-decoration:none;" href="/"><img height="27" width="184" src="/_internal/cimg!0/eihkjr2khbjo11.gif" border="0" /></a></td>
+
+<td bgcolor="#ffffff"> </td>
+
+</tr>
+
+</table>
+<!-- Mittabell -->
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+
+<tr>
+
+<td bgcolor="#ffffff" width="100"><img height="1" width="100" src="/img/line1x20.gif"></td>
+
+<td bgcolor="#ffffff" width="621" colspan="3">
+<table align="center" cellspacing="0" cellpadding="0" width="621" border="0">
+
+<tr valign="top">
+
+<td width="450">
+
+
+
+
+	
+
+
+
+<center>
+
+
+<h1 class="rubrik">Välkommen till D-sektionen</h1>
+
+
+</center>
+
+<br>
+
+
+<a href="http://www.d.lintek.liu.se/utskott/staben/04/fadder"><img height="302" width="400" src="/utskott/staben/04/fadder/sokfadder.gif" border="0"></a><br>
+
+&gt;&gt; <a href="http://www.d.lintek.liu.se/utskott/staben/04/fadder">Anmäl dig här!</a> &lt;&lt;<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+<td width="25" background="/img/avdelare-2.gif"> </td>
+
+<td valign="top" width="125"><!-- Här ska innehåller i spalten in -->
+<h1 class="rubrik">Nyheter</h1>
+
+
+
+<p>
+2004-05-19<br>
+
+Staben kommer att ha fadderinfomöte 18 maj, 17:00! Plats meddelas senare...
+</p>
+
+
+
+
+
+<p>
+2004-05-10<br>
+
+Fadderinfomöte, sektionsaktivas samt gratis filmkväll med PR-utskottet. <br />Läs mer i <a href="/utskott/informationsutskottet/infomail/index.xml?id=34">Infomailet</a>.
+</p>
+
+
+
+
+
+<p>
+2004-04-28<br>
+
+Bilder och info om det nya <a href="/sektion/styret/index.xml">styrelsen</a>.
+</p>
+
+
+
+
+
+<p>
+2004-04-27<br>
+
+Missa inte entreprenörsdagen 2004, onsdag den 5 maj kl 10:00-15:00, Colosseum kommer vara fyllt med småföretagare och organisationer som arbetar för entreprenörsandan i Linköping.
+
+</p>
+
+
+
+<p>
+<a href="/server/nyheter/index.xml">Se alla nyheter</a>
+</p>
+<br>
+</td>
+<br>
+ <br>
+ 
+		</td>
+
+</tr>
+
+</table>
+</td>
+
+<td bgcolor="#ffffff" width="100%"><img height="1" width="1" src="/img/line1x20.gif"></td>
+
+</tr>
+
+</table>
+
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+
+<tr>
+
+<td rowspan="3" bgcolor="#ffffff" width="100"><img height="1" width="100" src="/img/line1x20.gif"></td>
+
+<td bgcolor="#ffffff"><img height="12" width="621" src="/img/line1x20.gif"></td>
+
+<td rowspan="3" bgcolor="#ffffff" width="100"><img height="1" width="1" src="/img/line1x20.gif"></td>
+
+</tr>
+
+<tr>
+
+<td align="left" bgcolor="#ffffff">
+<table cellspacing="0" width="621" cellpadding="0" border="0">
+
+<tr>
+
+<td width="300"><a href="/server/webmaster.xml" class="fottext"><img height="13" width="57" alt="Webmaster -" src="/_internal/graphic_text!0/9y5hdsn9nvd$7g12v9lf.gif" border="0" /></a><a href="/server/" class="fottext"><img height="13" width="38" alt=" Server -" src="/_internal/graphic_text!0/9y5hdsn9nvd$1gxzqcdlr3.gif" border="0" /></a><a href="/server/cookies.xml" class="fottext"><img height="13" width="39" alt=" Cookies" src="/_internal/graphic_text!0/9y5hdsn9nvd$1gxzqcdlqw.gif" border="0" /></a></td>
+
+<td align="center" bgcolor="#ffffff" width="21"><a href="http://www.roxen.com/"><img alt="Powered by Roxen" border="0" src="/img/roxen_small.gif"></a></td>
+
+<td align="right" bgcolor="#ffffff" width="300"><a href="/login.xml" class="fottext"><img height="13" width="39" alt="Logga in" src="/_internal/graphic_text!0/9y5hdsn9nvd$7g12v9lq.gif" border="0" /></a></td>
+
+</tr>
+
+</table>
+</td>
+
+</tr>
+
+<tr>
+
+<td bgcolor="#ffffff"><img height="12" width="621" src="/img/line1x20.gif"></td>
+
+</tr>
+
+<tr>
+
+<td height="1" bgcolor="#000000" colspan="3"><img height="1" width="621" src="/img/line1x20.gif"></td>
+
+</tr>
+
+<tr>
+
+<td height="25" colspan="3"><img height="25" width="621" src="/img/line1x20.gif"></td>
+
+</tr>
+
+</table>
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
