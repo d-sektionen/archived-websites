@@ -105,7 +105,7 @@ h2 {font-size:12px;
 
 <tr bgcolor="#669966">
 
-<td width="100"> </td>
+<td width="100">Â </td>
 
 <td valign="bottom" width="441"><!-- Meny --><!-- Meny -->
 
@@ -122,7 +122,7 @@ h2 {font-size:12px;
 <table cellspacing="0" cellpadding="0" width="441" border="0">
 
 
-<!-- Översta raden -->
+<!-- Ã–versta raden -->
 
 <tr>
 
@@ -234,7 +234,7 @@ h2 {font-size:12px;
 </tr>
 
 
-<!-- Menytexten i nivå ett -->
+<!-- Menytexten i nivÄº ett -->
 
 <tr>
 
@@ -277,7 +277,7 @@ h2 {font-size:12px;
 
 
 
-<td bgcolor="#666666" colspan="3"><img height="1" width="5" src="/meny/punkt.gif"><a href="?menyl1=3"><img height="15" width="44" alt="Tjänster" src="/_internal/graphic_text!0/1yquzm3quw3nz$7g12wms3.gif" border="0" /></a><img height="1" width="5" src="/meny/punkt.gif"></td>
+<td bgcolor="#666666" colspan="3"><img height="1" width="5" src="/meny/punkt.gif"><a href="?menyl1=3"><img height="15" width="44" alt="TjÃ¤nster" src="/_internal/graphic_text!0/1yquzm3quw3nz$7g12wms3.gif" border="0" /></a><img height="1" width="5" src="/meny/punkt.gif"></td>
 
 
 
@@ -316,7 +316,7 @@ h2 {font-size:12px;
 
 
 
-<td bgcolor="#666666" colspan="3"><img height="1" width="5" src="/meny/punkt.gif"><a href="/foretag/?menyl1=0"><img height="15" width="42" alt="Företag" src="/_internal/graphic_text!0/1yquzm3quw3nz$7g12wmsf.gif" border="0" /></a><img height="1" width="5" src="/meny/punkt.gif"></td>
+<td bgcolor="#666666" colspan="3"><img height="1" width="5" src="/meny/punkt.gif"><a href="/foretag/?menyl1=0"><img height="15" width="42" alt="FÃ¶retag" src="/_internal/graphic_text!0/1yquzm3quw3nz$7g12wmsf.gif" border="0" /></a><img height="1" width="5" src="/meny/punkt.gif"></td>
 
 
 
@@ -359,7 +359,7 @@ h2 {font-size:12px;
 
 <td valign="bottom" align="left" width="184"><a style="text-decoration:none;" href="/"><img height="82" width="184" src="/_internal/cimg!0/eihkjr2khbjo13.gif" border="0" /></a></td>
 
-<td> </td>
+<td>Â </td>
 
 </tr>
 
@@ -377,13 +377,13 @@ h2 {font-size:12px;
 
 <tr bgcolor="#ffffff">
 
-<td width="100" bgcolor="#ffffff"> </td>
+<td width="100" bgcolor="#ffffff">Â </td>
 
-<td align="center" width="441"> </td>
+<td align="center" width="441">Â </td>
 
 <td valign="top" align="left" width="184"><a style="text-decoration:none;" href="/"><img height="27" width="184" src="/_internal/cimg!0/eihkjr2khbjo11.gif" border="0" /></a></td>
 
-<td bgcolor="#ffffff"> </td>
+<td bgcolor="#ffffff">Â </td>
 
 </tr>
 
@@ -412,7 +412,7 @@ h2 {font-size:12px;
 <center>
 
 
-<h1 class="rubrik">Välkommen till D-sektionen</h1>
+<h1 class="rubrik">VÃ¤lkommen till D-sektionen</h1>
 
 
 </center>
@@ -422,7 +422,7 @@ h2 {font-size:12px;
 
 <a href="http://www.d.lintek.liu.se/utskott/staben/04/fadder"><img height="302" width="400" src="/utskott/staben/04/fadder/sokfadder.gif" border="0"></a><br>
 
-&gt;&gt; <a href="http://www.d.lintek.liu.se/utskott/staben/04/fadder">Anmäl dig här!</a> &lt;&lt;<br>
+&gt;&gt; <a href="http://www.d.lintek.liu.se/utskott/staben/04/fadder">AnmÃ¤l dig hÃ¤r!</a> &lt;&lt;<br>
 <br>
 <br>
 <br>
@@ -435,9 +435,9 @@ h2 {font-size:12px;
 
 
 
-<td width="25" background="/img/avdelare-2.gif"> </td>
+<td width="25" background="/img/avdelare-2.gif">Â </td>
 
-<td valign="top" width="125"><!-- Här ska innehåller i spalten in -->
+<td valign="top" width="125"><!-- HÃ¤r ska innehÄºller i spalten in -->
 <h1 class="rubrik">Nyheter</h1>
 
 
@@ -445,7 +445,7 @@ h2 {font-size:12px;
 <p>
 2004-05-19<br>
 
-Staben kommer att ha fadderinfomöte 18 maj, 17:00! Plats meddelas senare...
+Staben kommer att ha fadderinfomÃ¶te 18 maj, 17:00! Plats meddelas senare...
 </p>
 
 
@@ -455,7 +455,7 @@ Staben kommer att ha fadderinfomöte 18 maj, 17:00! Plats meddelas senare...
 <p>
 2004-05-10<br>
 
-Fadderinfomöte, sektionsaktivas samt gratis filmkväll med PR-utskottet. <br />Läs mer i <a href="/utskott/informationsutskottet/infomail/index.xml?id=34">Infomailet</a>.
+FadderinfomÃ¶te, sektionsaktivas samt gratis filmkvÃ¤ll med PR-utskottet. <br />LÃ¤s mer i <a href="/utskott/informationsutskottet/infomail/index.xml?id=34">Infomailet</a>.
 </p>
 
 
@@ -475,7 +475,7 @@ Bilder och info om det nya <a href="/sektion/styret/index.xml">styrelsen</a>.
 <p>
 2004-04-27<br>
 
-Missa inte entreprenörsdagen 2004, onsdag den 5 maj kl 10:00-15:00, Colosseum kommer vara fyllt med småföretagare och organisationer som arbetar för entreprenörsandan i Linköping.
+Missa inte entreprenÃ¶rsdagen 2004, onsdag den 5 maj kl 10:00-15:00, Colosseum kommer vara fyllt med smÄºfÃ¶retagare och organisationer som arbetar fÃ¶r entreprenÃ¶rsandan i LinkÃ¶ping.
 
 </p>
 
@@ -487,8 +487,8 @@ Missa inte entreprenörsdagen 2004, onsdag den 5 maj kl 10:00-15:00, Colosseum ko
 <br>
 </td>
 <br>
- <br>
- 
+Â <br>
+Â 
 		</td>
 
 </tr>
